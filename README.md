@@ -1,0 +1,11 @@
+# Leukocyte segmentation and classification 
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
+### Prerequisites
+
+```
+cv2, tensorflow, keras, numpy, matplotlib, scipy, sklearn, Pillow
+```
+Using the anaconda distribution is recommended.
